@@ -6,5 +6,6 @@
 		CHALLENGE_SENT,
 		RESPONSE_SENT,
 		ACTIVE
+		
 	}
 }
