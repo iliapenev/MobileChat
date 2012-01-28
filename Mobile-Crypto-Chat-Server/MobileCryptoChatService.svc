@@ -1,0 +1,4 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" 
+    Service="Mobile_Crypto_Chat_Server.MobileCryptoChatService" 
+    CodeBehind="MobileCryptoChatService.svc.cs"
+    Factory="System.ServiceModel.Activation.WebServiceHostFactory" %>
